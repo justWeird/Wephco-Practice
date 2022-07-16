@@ -1,0 +1,26 @@
+.circles {
+    width: 10px; 
+    height: 25px;
+    border-radius: 50px;
+}
+
+.testimonial-head{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    background-color: red;
+}
+
+
+.testimonial-body{
+
+}
+
+.testimonial-footer{
+
+}
+
+.testimonial-bg{
+    background-color: #00001a;
+
+}
